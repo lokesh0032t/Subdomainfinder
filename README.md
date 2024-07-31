@@ -6,7 +6,7 @@ Requirements:
   pip3 install threading
   pip3 install argparse
 ```
-
+![](Screenshot 2024-07-31 155215.png)
 
 ## Usage:
 ```
