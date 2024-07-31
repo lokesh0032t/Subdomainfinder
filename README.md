@@ -1,4 +1,10 @@
 # Subdomainfinder
+```
+Requirements:
+  pip3 install requests
+  pip3 install threading
+  pip3 install argparse
+```
 A Python Based subdomain bruteforcer
 
 ## Usage:
