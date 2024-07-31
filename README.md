@@ -10,12 +10,12 @@ Requirements:
 
 ## Usage:
 ```
-subdomainfinder.py google.com
+python3 subdomainfinder.py google.com
 ```
 
 ## Options
 ```
-subdomainfinder.py domain -w wordlist.txt -t 1000 -v
+python3 subdomainfinder.py domain -w wordlist.txt -t 1000 -v
 
 -w/--wordlist : custom wordlist
 -t/--thread : custom threads
